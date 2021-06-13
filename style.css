@@ -57,3 +57,23 @@ input
     padding: 8px;
     
 }
+
+.book {
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+
+.header{
+    line-height: 2px;
+}
+.modal-content{
+    margin-top: 20px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
